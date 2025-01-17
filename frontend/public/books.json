@@ -1,0 +1,162 @@
+[
+  {
+    "_id": 1,
+    "title": "Shape of You",
+    "description": "A chart-topping hit by Ed Sheeran blending pop and tropical house elements.",
+    "category": "pop",
+    "trending": true,
+    "coverImage": "music-1.png"
+  },
+  {
+    "_id": 2,
+    "title": "Bohemian Rhapsody",
+    "description": "The iconic six-minute rock opera by Queen, featuring multiple musical styles.",
+    "category": "rock",
+    "trending": true,
+    "coverImage": "music-2.png"
+  },
+  {
+    "_id": 3,
+    "title": "Blinding Lights",
+    "description": "A retro-inspired synthwave track by The Weeknd that became a global sensation.",
+    "category": "pop",
+    "trending": true,
+    "coverImage": "music-3.png"
+  },
+  {
+    "_id": 4,
+    "title": "Clair de Lune",
+    "description": "Claude Debussy's timeless piano masterpiece, perfect for a relaxing evening.",
+    "category": "classical",
+    "trending": false,
+    "coverImage": "music-4.png"
+  },
+  {
+    "_id": 5,
+    "title": "Hotel California",
+    "description": "The Eagles' haunting ballad featuring one of the most famous guitar solos.",
+    "category": "rock",
+    "trending": true,
+    "coverImage": "music-5.png"
+  },
+  {
+    "_id": 6,
+    "title": "Lose Yourself",
+    "description": "Eminem's intense and motivational rap anthem from the movie '8 Mile.'",
+    "category": "hip-hop",
+    "trending": false,
+    "coverImage": "music-6.png"
+  },
+  {
+    "_id": 7,
+    "title": "Imagine",
+    "description": "John Lennon's timeless call for peace and unity.",
+    "category": "pop",
+    "trending": true,
+    "coverImage": "music-7.png"
+  },
+  {
+    "_id": 8,
+    "title": "Fur Elise",
+    "description": "Ludwig van Beethoven's classic piece for solo piano, beloved by audiences worldwide.",
+    "category": "classical",
+    "trending": false,
+    "coverImage": "music-8.png"
+  },
+  {
+    "_id": 9,
+    "title": "Despacito",
+    "description": "Luis Fonsi and Daddy Yankee's record-breaking reggaeton hit.",
+    "category": "latin",
+    "trending": true,
+    "coverImage": "music-9.png"
+  },
+  {
+    "_id": 10,
+    "title": "Stairway to Heaven",
+    "description": "Led Zeppelin's legendary rock ballad blending folk and hard rock elements.",
+    "category": "rock",
+    "trending": true,
+    "coverImage": "music-10.png"
+  },
+  {
+    "_id": 11,
+    "title": "Rolling in the Deep",
+    "description": "Adele's powerful anthem about heartbreak and resilience.",
+    "category": "soul",
+    "trending": true,
+    "coverImage": "music-11.png"
+  },
+  {
+    "_id": 12,
+    "title": "All of Me",
+    "description": "John Legend's heartfelt ballad dedicated to his wife.",
+    "category": "R&B",
+    "trending": true,
+    "coverImage": "music-12.png"
+  },
+  {
+    "_id": 13,
+    "title": "Hallelujah",
+    "description": "Leonard Cohen's poetic song, covered by numerous artists over the years.",
+    "category": "folk",
+    "trending": true,
+    "coverImage": "music-13.png"
+  },
+  {
+    "_id": 14,
+    "title": "Canon in D",
+    "description": "Johann Pachelbel's enduring baroque composition.",
+    "category": "classical",
+    "trending": false,
+    "coverImage": "music-14.png"
+  },
+  {
+    "_id": 15,
+    "title": "Billie Jean",
+    "description": "Michael Jackson's funky and iconic track that defined a generation.",
+    "category": "pop",
+    "trending": true,
+    "coverImage": "music-15.png"
+  },
+  {
+    "_id": 16,
+    "title": "Old Town Road",
+    "description": "Lil Nas X's genre-blending hit that took the internet by storm.",
+    "category": "country",
+    "trending": true,
+    "coverImage": "music-16.png"
+  },
+  {
+    "_id": 17,
+    "title": "Symphony No. 5",
+    "description": "Beethoven's most famous symphony, with its dramatic and recognizable opening motif.",
+    "category": "classical",
+    "trending": false,
+    "coverImage": "music-17.png"
+  },
+  {
+    "_id": 18,
+    "title": "Savage Love",
+    "description": "Jason Derulo and Jawsh 685's catchy TikTok sensation.",
+    "category": "pop",
+    "trending": true,
+    "coverImage": "music-18.png"
+  },
+  {
+    "_id": 19,
+    "title": "Someone Like You",
+    "description": "Adele's heart-wrenching ballad of love and loss.",
+    "category": "soul",
+    "trending": true,
+    "coverImage": "music-19.png"
+  },
+  {
+    "_id": 20,
+    "title": "November Rain",
+    "description": "Guns N' Roses' epic rock ballad featuring stunning orchestral arrangements.",
+    "category": "rock",
+    "trending": true,
+    "coverImage": "music-20.png"
+  }
+]
